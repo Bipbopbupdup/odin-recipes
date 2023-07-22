@@ -3,7 +3,7 @@
 ## Description
 
 This is my first project with "The Odin Project". <br>
-A simple Website made with HTML.
+A simple Website made with **HTML**.
 
 ## Contents
 
