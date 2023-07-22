@@ -9,8 +9,13 @@ A simple Website made with **HTML**.
 
 - a main page with links
 - three recipe pages
+  - odert and unordert lists
+  - img of the dish
 
-## Links (pending)
+## Links
+
+- [live preview](https://bipbopbupdup.github.io/odin-recipes/)
+- link to the [Assignment](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## Notes
 
