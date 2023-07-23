@@ -1,9 +1,11 @@
 # My "Recipe-Website" project
 
+![landingpage sreenshot](./media/index.png)
+
 ## Description
 
 This is my first project with "The Odin Project". <br>
-A simple Website made with **HTML**.
+A simple Website made with **HTML** and **CSS**.
 
 ## Contents
 
@@ -11,6 +13,7 @@ A simple Website made with **HTML**.
 - three recipe pages
   - odert and unordert lists
   - img of the dish
+- external CSS
 
 ## Links
 
