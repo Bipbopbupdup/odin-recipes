@@ -1,0 +1,66 @@
+html {
+  box-sizing: border-box;
+  background-color: #faf6f0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 5rem 0 0 0;
+  font-size: 1rem;
+  color: #060a07;
+}
+/* header */
+header {
+  width: 100%;
+  margin: 0 0 2rem 0;
+  text-align: right;
+}
+header * {
+  display: inline-block;
+  margin: 0;
+}
+header p {
+  margin-right: 2rem;
+}
+
+/* index */
+.infotext {
+  max-width: 40rem;
+  margin: 15% 2rem 2rem 2rem;
+}
+
+.recipe-links {
+  list-style: none;
+  text-align: right;
+  margin: 15% 2rem 0 0;
+}
+
+.recipe-links li {
+  margin-top: 1rem;
+}
+
+/* links */
+
+a:link {
+  color: #0e2915;
+  text-decoration: none;
+  padding: 0.5rem 0.1rem 0 0.1rem;
+}
+
+a:visited {
+  color: #0e2915;
+  padding: 0.5rem 0.1rem 0 0.1rem;
+}
+
+a:hover {
+  font-size: 1.2rem;
+}
+a:active {
+  background-color: #ffc294;
+}
